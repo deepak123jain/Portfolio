@@ -6,7 +6,10 @@ h1{
  font-weight: 1000;
  letter-spacing: 3px;
 }
-
+ul li {
+    list-style-position: outside;
+    margin-left: 1em;
+}
 .txt{
   color: white;
   margin-top: 30px;
